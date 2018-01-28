@@ -433,7 +433,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = JekinsTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "39798e73-a59c-4836-a2e7-1444dc6427c4";
+				PROVISIONING_PROFILE = "ec304d1c-2950-477d-9be9-404eef52274b";
 				PROVISIONING_PROFILE_SPECIFIER = jekinsTestPro;
 			};
 			name = Debug;
@@ -450,7 +450,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = JekinsTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "39798e73-a59c-4836-a2e7-1444dc6427c4";
+				PROVISIONING_PROFILE = "ec304d1c-2950-477d-9be9-404eef52274b";
 				PROVISIONING_PROFILE_SPECIFIER = jekinsTestPro;
 			};
 			name = Release;
