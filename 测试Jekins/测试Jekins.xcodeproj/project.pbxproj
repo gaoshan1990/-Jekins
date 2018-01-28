@@ -431,10 +431,10 @@
 				INFOPLIST_FILE = "测试Jekins/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sinovatech.jiangximobile;
+				PRODUCT_BUNDLE_IDENTIFIER = JekinsTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "20b5390a-e4d7-435e-af39-2c95f199c30a";
-				PROVISIONING_PROFILE_SPECIFIER = jiangxiMobile_dev;
+				PROVISIONING_PROFILE = "39798e73-a59c-4836-a2e7-1444dc6427c4";
+				PROVISIONING_PROFILE_SPECIFIER = jekinsTestPro;
 			};
 			name = Debug;
 		};
@@ -448,10 +448,10 @@
 				INFOPLIST_FILE = "测试Jekins/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sinovatech.jiangximobile;
+				PRODUCT_BUNDLE_IDENTIFIER = JekinsTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "20b5390a-e4d7-435e-af39-2c95f199c30a";
-				PROVISIONING_PROFILE_SPECIFIER = jiangxiMobile_dev;
+				PROVISIONING_PROFILE = "39798e73-a59c-4836-a2e7-1444dc6427c4";
+				PROVISIONING_PROFILE_SPECIFIER = jekinsTestPro;
 			};
 			name = Release;
 		};
